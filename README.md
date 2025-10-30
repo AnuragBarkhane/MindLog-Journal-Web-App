@@ -1,1 +1,0 @@
-# MindLog--Journal-Web-App
